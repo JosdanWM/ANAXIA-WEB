@@ -1,2 +1,39 @@
 # ANAXIA-WEB
 Aprendiendo programación con ANAXIA
+- Introducción a la Programación
+    - Términología esencial de programación e IA (Claude.ai) 
+        - Repaso teórico
+        - QandA
+        - Solucionar QandA
+    - Intro to programming technologies and AI (Claude.ai) 
+        - Repaso teórico
+        - QandA
+        - Solucionar QandA
+    - Buenas prácticas en programación (Claude.ai) 
+        - Repaso teórico
+        - QandA
+        - Solucionar QandA
+    - https://www.udemy.com/course/conceptos-basicos-de-programacion-y-tecnologicos-para-todos/learn/lecture/52129915?start=0#overview
+        - Repaso teórico
+        - QandA
+        - Solucionar QandA
+    - https://www.udemy.com/course/curso-fundamentos-programacion/learn/lecture/47264653?start=0#overview
+        - Repaso teórico
+        - QandA
+        - Solucionar QandA
+    - https://www.udemy.com/course/fundamentos-de-programacion-r/learn/lecture/34745050?start=0#overview
+        - Repaso teórico
+        - QandA
+        - Solucionar QandA
+    - https://www.udemy.com/course/draft/4978572/learn/lecture/35055514?start=0#overview
+        - Repaso teórico
+        - QandA
+        - Solucionar QandA
+    - Mini Curso de HTML - ¿Cómo crear una página HTML básico?
+        - Repaso teórico
+        - QandA
+        - Solucionar QandA
+    - https://www.udemy.com/course/curso-de-programacion-para-novatos-el-mas-facil-de-entender/learn/lecture/45008693#overview
+        - Repaso teórico
+        - QandA
+        - Solucionar QandA
