@@ -1,18 +1,39 @@
 # ANAXIA-WEB
-Aprendiendo programación con ANAXIA
-- Introducción a la Programación
-    - Términología esencial de programación e IA (Claude.ai) 
-        - Repaso teórico
-        - QandA
-        - Solucionar QandA
-    - Intro to programming technologies and AI (Claude.ai) 
-        - Repaso teórico
-        - QandA
-        - Solucionar QandA
-    - Buenas prácticas en programación (Claude.ai) 
-        - Repaso teórico
-        - QandA
-        - Solucionar QandA
+
+IMPORTANTE: Este no es un programa académico formal a seguir, todo lo contrario en un programa adaptativo de programación elaborado de acuerdo a mis necesidades de aprendizaje como aprendiz autodidacta.
+
+## Términología y Buenas Prácticas en Programación
+- Terminología esencial en programación
+    <!--Elaborado en claude.ai-->
+- Intro to programming technologies and AI
+    <!--Elaborado en claude.ai-->
+- Buenas prácticas en programación
+    <!--Elaborado en claude.ai-->
+- Buenas prácticas en HTML, CSS, JavaScript y Python
+    <!--Elaborado en claude.ai-->
+## Introducción a la programación
+
+
+
+## Fundamentos de la Programación
+
+
+
+## HTML
+
+
+
+## CSS
+
+
+
+## JavaScript
+
+
+
+## 
+
+
     - https://www.udemy.com/course/conceptos-basicos-de-programacion-y-tecnologicos-para-todos/learn/lecture/52129915?start=0#overview
         - Repaso teórico
         - QandA
