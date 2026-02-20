@@ -10,6 +10,12 @@
 - Introducción JavaScript y Python
 
 ## Conceptos Fundamentales de Programación e IA
+- Conceptos esenciales de C&I en Programación - I
+    <!--Elaborado en: claude.ai y gemini.google.com-->
+- Conceptos esenciales de C&I en Programación - II
+    <!--Elaborado en: claude.ai y gemini.google.com-->
+- Conceptos esenciales de C&I en Programación - III
+    <!--Elaborado en: claude.ai y gemini.google.com-->
 - Conceptos fundamentales de programación
     <!--Elaborado en: claude.ai y gemini.google.com-->
 - Conceptos fundamentales de programación Web
