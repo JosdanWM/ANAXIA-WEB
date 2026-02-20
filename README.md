@@ -10,35 +10,52 @@
 - Introducción JavaScript y Python
 
 ## Conceptos Fundamentales de Programación e IA
-- Conceptos esenciales de C&I en Programación - I
+- Conceptos esenciales de C&I en programación - I
     <!--Elaborado en: claude.ai y gemini.google.com-->
-- Conceptos esenciales de C&I en Programación - II
+- Conceptos esenciales de C&I en programación - II
     <!--Elaborado en: claude.ai y gemini.google.com-->
 - Conceptos esenciales de C&I en Programación - III
     <!--Elaborado en: claude.ai y gemini.google.com-->
 - Conceptos fundamentales de programación
     <!--Elaborado en: claude.ai y gemini.google.com-->
-- Conceptos fundamentales de programación Web
+- Conceptos fundamentales de programación de Webs
+    <!--Elaborado en: claude.ai y gemini.google.com-->
+- Conceptos fundamentales de programación de Apps
     <!--Elaborado en: claude.ai y gemini.google.com-->
 - Conceptos fundamentales de IA
     <!--Elaborado en: claude.ai y gemini.google.com-->
 - Conceptos fundamentales de Vibe Coding
    <!--Elaborado en: claude.ai y gemini.google.com-->
-
+## Prompt Engineerin para Programadores
+- Fundamentos del prompt engineering
+   <!--Elaborado en: claude.ai y gemini.google.com-->
+- Fundamentos de prompt engineering en programación
+   <!--Elaborado en: claude.ai y gemini.google.com-->
 ## Buenas Prácticas en Programación
 - Buenas prácticas en programación
     <!--Elaborado en claude.ai-->
 - Buenas prácticas en HTML, CSS, JavaScript y Python
-    <!--Elaborado en claude.ai-->
-
-## **Introducción a la Programación Web**
-- 
+    <!--Elaborado en claude.ai y gemini.google.com-->
 
 
 
 ## Fundamentos de la Programación
 - 
 
+
+## **Introducción a la Programación con HTML**
+- Buenas prácticas en HTML
+    <!--Elaborado en claude.ai y gemini.google.com-->
+## **Introducción a la Programación con CSS**
+- Buenas prácticas en CSS
+    <!--Elaborado en claude.ai y gemini.google.com-->
+## **Introducción a la Programación JavaScript**
+- Buenas prácticas en JavaScript
+    <!--Elaborado en claude.ai y gemini.google.com-->
+
+## **Introducción a la Programación Python**
+- Buenas prácticas en Python
+    <!--Elaborado en claude.ai y gemini.google.com-->
 
 ## HTML
 - 
