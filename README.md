@@ -42,6 +42,31 @@
 ## Fundamentos de la Programación
 - 
 
+## Herramientas de Programación e IA
+- Visual Studio Code
+
+- GitHub Copilot
+
+- Introducción a la PowerShell
+
+- Introducción a Bash
+
+- Git
+
+- GitHub
+
+- Antigravity
+
+- Claude Code
+
+- Codex
+
+- Cursor
+
+- Warp
+
+- 
+
 
 ## **Introducción a la Programación con HTML**
 - Buenas prácticas en HTML
@@ -75,5 +100,18 @@
 
 
 
+***Nota:***
+- YT:
+- PDF:
+- U:
+- HM:
+- CB:
+- Cm:
+- DC:
+- C:
+- 
+- ....: En proceso teórico
+- ..: En proceso de evaluación
+- #: Tema terminado
 
 
