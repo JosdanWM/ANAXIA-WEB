@@ -34,18 +34,33 @@
 ## Buenas Prácticas en Programación
 - Buenas prácticas en programación
     <!--Elaborado en claude.ai-->
-- Buenas prácticas en HTML, CSS, JavaScript y Python
+- Buenas prácticas en HTML
     <!--Elaborado en claude.ai y gemini.google.com-->
+- Buenas prácticas en CSS
+    <!--Elaborado en claude.ai y gemini.google.com-->
+- Buenas prácticas en JavaScript
+    <!--Elaborado en claude.ai y gemini.google.com-->
+- Buenas prácticas en Python
+    <!--Elaborado en claude.ai y gemini.google.com-->
+- Buenas prácticas en Java
+    <!--Elaborado en claude.ai y gemini.google.com-->
+- Buenas prácticas en TypeScript
+    <!--Elaborado en claude.ai y gemini.google.com-->
+
+
+
 
 
 
 ## Fundamentos de la Programación
 - 
 
+
+
 ## Herramientas de Programación e IA
 - Visual Studio Code
 
-- GitHub Copilot
+- Introducción a GitHub Copilot
 
 - Introducción a la PowerShell
 
@@ -55,17 +70,7 @@
 
 - GitHub
 
-- Antigravity
-
-- Claude Code
-
-- Codex
-
-- Cursor
-
-- Warp
-
-- 
+- Docker
 
 
 ## **Introducción a la Programación con HTML**
@@ -96,6 +101,25 @@
 
 ## 
 - 
+
+
+## Fundamentos de Vibe Coding
+- 
+
+## Herramientas de Vibe Coding
+- GitHub Copilot
+
+- Antigravity
+
+- Claude Code
+
+- Codex
+
+- Cursor
+
+- Warp
+
+- OpenClaW
 
 
 
