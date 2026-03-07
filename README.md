@@ -11,7 +11,8 @@
 - Introducción a HTML, CSS, JavaScript #
   <!--[Curso Udemy](https://www.udemy.com/course/curso-de-programacion-para-novatos-el-mas-facil-de-entender/)-->
 
-## Conceptos Fundamentales de Programación e IA
+
+## Introducción a la Programación e IA
 - Conceptos esenciales de C&I en programación - I
   <!--Elaborado en: claude.ai (Teoría) y gemini.google.com (Práctica)-->
 - Conceptos esenciales de C&I en programación - II
@@ -24,15 +25,15 @@
   <!--Elaborado en: claude.ai (Teoría) y gemini.google.com-->
 - Conceptos fundamentales de programación de Apps
   <!--Elaborado en: claude.ai (Teoría) y gemini.google.com-->
-- Conceptos fundamentales de IA
-  <!--Elaborado en: claude.ai (Teoría) y gemini.google.com-->
-- Conceptos fundamentales de Vibe Coding
-  <!--Elaborado en: claude.ai (Teoría) y gemini.google.com-->
-## Prompt Engineerin para Programadores
-- Fundamentos del prompt engineering
-  <!--Elaborado en: claude.ai (Teoría) y gemini.google.com-->
-- Fundamentos de prompt engineering en programación
-  <!--Elaborado en: claude.ai (Teoría) y gemini.google.com-->
+
+
+## 
+
+
+
+
+
+  
 ## Buenas Prácticas en Programación
 - Buenas prácticas en programación
   <!--Elaborado en claude.ai-->
