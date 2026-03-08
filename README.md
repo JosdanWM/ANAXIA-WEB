@@ -3,16 +3,18 @@
 - **IMPORTANTE**: Este no es un programa académico formal a seguir, todo lo contrario en un programa adaptativo de programación elaborado de acuerdo a mis necesidades de aprendizaje como aprendiz autodidacta.
 ---
 
-## F2F con la Programación 
-  <!--Sin contenido explicito, ya que es mi experiencia previa-->
-  <!--Este programa inicial tiene como objetivo sumergir al alumno en el mundo de la programación-->
-- Introducción a VS Code #
-  <!---->
+## **Mi Primer Contacto con la Programación Web**
+- Cómo crear y configurar tu cuenta de GitHub en 2026 (YT) #
+  * https://www.youtube.com/watch?v=JaKUEnVkAmY&list=PLt1J5u9LpM5_SKuR1ta1kpCLci6yIwRE_&index=3
+- Instalar y personalizar VS Code (YT) #
+  * https://www.youtube.com/watch?v=MYSCyxGYOGs&list=PLt1J5u9LpM5_SKuR1ta1kpCLci6yIwRE_&index=2
+  * https://www.youtube.com/watch?v=ZfYN7h1sIP8&list=PLt1J5u9LpM5_SKuR1ta1kpCLci6yIwRE_&index=1
 - Introducción a HTML, CSS, JavaScript #
-  <!--[Curso Udemy](https://www.udemy.com/course/curso-de-programacion-para-novatos-el-mas-facil-de-entender/)-->
+  * https://www.udemy.com/course/curso-de-programacion-para-novatos-el-mas-facil-de-entender/
+  * 
+- 
 
-
-## Introducción a la Programación e IA
+## **Introducción a la Programación e IA**
 - Conceptos esenciales de C&I en programación - I
   <!--Elaborado en: claude.ai (Teoría) y gemini.google.com (Práctica)-->
 - Conceptos esenciales de C&I en programación - II
@@ -27,7 +29,7 @@
   <!--Elaborado en: claude.ai (Teoría) y gemini.google.com-->
 
 
-## 
+## ****
 
 
 
@@ -128,15 +130,14 @@
 
 
 ***Nota:***
-- YT:
-- PDF:
-- U:
-- HM:
-- CB:
-- Cm:
-- DC:
-- Cw:
-- 
+- YT: YouTube
+- PDF: Ebook en PDF
+- U: Udemy
+- HM: Hola Mundo
+- CB: Codificando Bits
+- Cm: Commit
+- DC: Data Camp
+- @: anaxia
 - ....: En proceso teórico
 - ..: En proceso de evaluación
 - #: Tema terminado
