@@ -44,6 +44,14 @@
 
 
 
+## **Introducción a la Programación desde Cero con IA**
+- Programación desde Cero con IA (YT)...
+  * https://www.youtube.com/watch?v=gg_pbGJ-10w&list=PLt1J5u9LpM5-e4L07mGwq4anmlullo5XY&index=1
+- Algoritmos y Resolución de Problemas con IA (YT)....
+  * https://www.youtube.com/watch?v=YFG9o0alw9U&list=PLt1J5u9LpM5-e4L07mGwq4anmlullo5XY&index=2
+- Diagramas de Flujo y Pseudocódigo (YT)....
+  * https://www.youtube.com/watch?v=XMmO7ddECSo&list=PLt1J5u9LpM5-e4L07mGwq4anmlullo5XY&index=3
+
 
 
 ## Fundamentos de la Programación
