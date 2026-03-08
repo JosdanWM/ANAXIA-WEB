@@ -9,47 +9,36 @@
 - Instalar y personalizar VS Code (YT) #
   * https://www.youtube.com/watch?v=MYSCyxGYOGs&list=PLt1J5u9LpM5_SKuR1ta1kpCLci6yIwRE_&index=2
   * https://www.youtube.com/watch?v=ZfYN7h1sIP8&list=PLt1J5u9LpM5_SKuR1ta1kpCLci6yIwRE_&index=1
-- Introducción a HTML, CSS, JavaScript #
+- Introducción a HTML, CSS, JavaScript ..
   * https://www.udemy.com/course/curso-de-programacion-para-novatos-el-mas-facil-de-entender/
-  * 
-- 
 
-## **Introducción a la Programación e IA**
-- Conceptos esenciales de C&I en programación - I
-  <!--Elaborado en: claude.ai (Teoría) y gemini.google.com (Práctica)-->
-- Conceptos esenciales de C&I en programación - II
-  <!--Elaborado en: claude.ai (Teoría) y gemini.google.com-->
-- Conceptos esenciales de C&I en Programación - III
-  <!--Elaborado en: claude.ai (Teoría) y gemini.google.com-->
-- Conceptos fundamentales de programación
-  <!--Elaborado en: claude.ai (Teoría) y gemini.google.com-->
-- Conceptos fundamentales de programación de Webs
-  <!--Elaborado en: claude.ai (Teoría) y gemini.google.com-->
-- Conceptos fundamentales de programación de Apps
-  <!--Elaborado en: claude.ai (Teoría) y gemini.google.com-->
+## **Conceptos Básicos de Programación, CD, ML, IA, IoT, CS y Hacking**
+- Conceptos Básicos de Programación I (@)..
+- Conceptos Básicos de Programación II (Kd) ....
+- Conceptos Básicos de Programación Web (@)....
+- Conceptos Básicos de Programación de Apps (@)....
+- Conceptos Básicos redes informáticas (@)....
+- Conceptos Básicos de IA (@)..
+- Conceptos Básicos de Vibe Coding (@)..
+- Conceptos Básicos de Ciencias de Datos (@).... 
+- Conceptos Básicos de Machine Learning (@).... 
+- Conceptos Básicos de Internet of Things (@).... 
+- Conceptos Básicos de Ciberseguridad y Hacking (@)....
 
-
-## ****
-
-
-
-
-
-  
 ## Buenas Prácticas en Programación
-- Buenas prácticas en programación
+- Buenas prácticas en programación (@)....
   <!--Elaborado en claude.ai-->
-- Buenas prácticas en HTML
+- Buenas prácticas en HTML (@)....
   <!--Elaborado en claude.ai y gemini.google.com-->
-- Buenas prácticas en CSS
+- Buenas prácticas en CSS (@)....
   <!--Elaborado en claude.ai y gemini.google.com-->
-- Buenas prácticas en JavaScript
+- Buenas prácticas en JavaScript (@)....
   <!--Elaborado en claude.ai y gemini.google.com-->
-- Buenas prácticas en Python
+- Buenas prácticas en Python (@)....
   <!--Elaborado en claude.ai y gemini.google.com-->
-- Buenas prácticas en Java
+- Buenas prácticas en Java (@)....
   <!--Elaborado en claude.ai y gemini.google.com-->
-- Buenas prácticas en TypeScript
+- Buenas prácticas en TypeScript (@)....
   <!--Elaborado en claude.ai y gemini.google.com-->
 
 
@@ -132,6 +121,7 @@
 ***Nota:***
 - YT: YouTube
 - PDF: Ebook en PDF
+- Kd: Ebook de Kindle
 - U: Udemy
 - HM: Hola Mundo
 - CB: Codificando Bits
